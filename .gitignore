@@ -1,0 +1,14 @@
+# C/C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.pdb
+build/
+bin/
+
+# VS Code local settings
+.vscode/
