@@ -4,12 +4,12 @@
 using namespace std;
 
 int main(){
-    int a;
-    cout << "Enter length of a: ";
-    cin >> a;
+    int n;
+    cout << "Enter value of N: ";
+    cin >> n;
 
-    int area = a * a;
-    cout << area;
+    int area = n * n;
+    cout <<  area;
 
     return 0;
 }

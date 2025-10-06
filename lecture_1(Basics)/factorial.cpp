@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     int n;
-    cout << "Enter n: ";
+    cout << "Enter a number: ";
     cin >> n;
 
     int fact = 1;
@@ -13,7 +13,7 @@ int main(){
         fact *= i;
     }
 
-    cout << "Factoial of " << n << " is " << fact;
+    cout << "Factorial of " << n  << " is " << fact;
 
     return 0;
 }
