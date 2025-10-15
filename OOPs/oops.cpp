@@ -22,7 +22,7 @@ int main(){
     t.name = "Vaibhav";
     t.dept = "IT";
     t.subject = "SDE";
-    t.salary = 6000000;
+    // t.salary = 6000000;
 
     cout << t.name << endl;
 
