@@ -6,11 +6,11 @@ using namespace std;
 
 int main(){
     int n;
-    cout << "Enter n; ";
+    cout << "Enter n: ";
     cin >> n;
 
     vector<int> nums(n);
-    cout << "Enter array elements";
+    cout << "Enter array elements : ";
     for(int i = 0; i < n; i++){
         cin >> nums[i];
     }
